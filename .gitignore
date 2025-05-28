@@ -1,0 +1,16 @@
+# Python 가상환경
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode 설정 (선택)
+.vscode/
+
+# 결과 데이터
+data/output/
+logs/
